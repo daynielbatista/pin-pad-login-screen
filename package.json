@@ -1,0 +1,30 @@
+{
+  "name": "pin-pad-login-screen",
+  "version": "1.0.0",
+  "description": "My first proyect using Node",
+  "main": " ",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daynielbatista/pin-pad-login-screen.git"
+  },
+  "keywords": [
+    "pin",
+    "pad"
+  ],
+  "author": "Dany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daynielbatista/pin-pad-login-screen/issues"
+  },
+  "homepage": "https://github.com/daynielbatista/pin-pad-login-screen#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
